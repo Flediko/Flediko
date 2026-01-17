@@ -44,8 +44,9 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Flediko)
+## 📈 3D Contribution Graph
+![3D Profile](./profile-3d-contrib/profile-night-rainbow.svg)
+
 
 
 ---
