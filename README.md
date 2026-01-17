@@ -45,9 +45,9 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Flediko&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flediko&layout=compact&theme=tokyonight)
 
 ---
 
@@ -57,7 +57,8 @@
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](![Snake](https://github.com/Flediko/Flediko/blob/output/github-contribution-grid-snake.svg)
+)
 
 ---
 
