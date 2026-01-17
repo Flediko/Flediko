@@ -25,8 +25,8 @@
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git)
 
 ---
 
@@ -52,7 +52,7 @@
 ---
 
 ## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Flediko&color=blue)
 
 ---
 
