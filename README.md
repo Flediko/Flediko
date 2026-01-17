@@ -45,7 +45,10 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Flediko)
+<img src="https://github-readme-stats.vercel.app/api?username=Flediko&show_icons=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flediko&layout=compact" />
+
 
 ---
 
