@@ -1,0 +1,27 @@
+name: 3D Contribution Graph
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate 3D contribution graph
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-3d.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Flediko
+          template: classic
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
