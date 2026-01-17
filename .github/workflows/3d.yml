@@ -15,7 +15,7 @@ jobs:
       - name: Generate 3D profile
         uses: yoshi389111/github-profile-3d-contrib@latest
         with:
-          username: Flediko
-          output_path: profile-3d-contrib
+          username: 'Flediko'
+          output_path: 'profile-3d-contrib'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
