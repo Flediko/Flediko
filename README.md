@@ -57,8 +57,7 @@
 ---
 
 ## 🐍 Contribution Snake
-![Snake animation](![Snake](https://github.com/Flediko/Flediko/blob/output/github-contribution-grid-snake.svg)
-)
+![Snake animation](https://raw.githubusercontent.com/Flediko/Flediko/output/github-contribution-grid-snake.svg)
 
 ---
 
