@@ -47,7 +47,7 @@
 ---
 
 ## 🧬 Battle History
-![3D Profile](https://raw.githubusercontent.com/Flediko/Flediko/main/metrics-3d.svg)
+![3D Profile](https://github-readme-activity-graph.vercel.app/graph?username=Flediko&theme=react-dark)
 
 ---
 
