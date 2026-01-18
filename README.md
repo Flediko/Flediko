@@ -47,7 +47,7 @@
 ---
 
 ## 🧬 Battle History
-![3D Profile](https://raw.githubusercontent.com/Flediko/Flediko/main/profile-3d-contrib/profile-night-rainbow.svg)
+![3D Profile](https://raw.githubusercontent.com/Flediko/Flediko/main/profile-3d-contrib.svg)
 
 ---
 
