@@ -1,65 +1,67 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500">
+</p>
+
 <h1 align="center">
-  Hi 👋, I'm Aakash Singh
+  🎮 Hey, I'm Aakash Singh
 </h1>
 
 <p align="center">
-  🎓 Computer Science Student • 💻 Full-Stack Learner • 🔐 Cybersecurity Enthusiast
+  💻 CS Student • ⚔️ Gamer Dev • 🔐 Cybersecurity Enthusiast
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Flediko&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=Flediko&color=blueviolet" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-- Passionate about building real-world software
-- Interested in backend systems & security
-- Constantly improving DSA and project skills
+## 🧠 Player Stats
+- 🎓 Computer Science Student  
+- 🛠️ Full-Stack Developer in progress  
+- 🔐 Security & backend focused  
+- 🎯 Grinding DSA & real-world projects  
 
 ---
 
-## 🚀 What I'm Learning
-- Data Structures & Algorithms
-- Web Development (HTML, CSS, JavaScript)
-- Java & Python
-- Databases (MySQL)
-
----
-
-## 🛠️ Tech Stack
+## 🧩 Skill Loadout
 <p align="center">
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
 </p>
 
 ---
 
-## 📂 Projects
-- 📌 Student Attendance System  
-- 📌 RBAC E-Commerce System  
-- 📌 Cybersecurity Mini Projects  
+## 🗺️ Quests Completed
+- 🎯 Student Attendance System  
+- 🛒 RBAC E-Commerce Platform  
+- 🛡️ Cybersecurity Mini Projects  
 
 ---
 
-## 🔥 Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Flediko&theme=react-dark)
+## 🧬 Battle History
+![3D Profile](https://raw.githubusercontent.com/Flediko/Flediko/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 XP Progression
 ![Snake](https://raw.githubusercontent.com/Flediko/Flediko/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🎯 Goals
-- Build production-level projects
-- Become internship-ready
-- Grow in cybersecurity & backend development
+## 🏁 Current Objectives
+- 🚀 Build production-level systems  
+- 💼 Become internship-ready  
+- 🔐 Advance in cybersecurity  
 
 ---
 
-⭐ *Always learning, always building*
+<p align="center">
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="250">
+</p>
+
+⭐ **Keep grinding. Level up daily.**
