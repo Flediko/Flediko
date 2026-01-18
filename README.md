@@ -27,12 +27,15 @@
 ## 🧩 Skill Loadout
 <p align="center">
   <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus" />
   <img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java" />
   <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/MySQL-orange?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb" />
   <img src="https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git" />
   <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux" />
 </p>
+
 
 ---
 
