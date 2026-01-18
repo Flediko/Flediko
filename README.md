@@ -47,7 +47,7 @@
 ---
 
 ## 🧬 Battle History
-![3D Profile](https://raw.githubusercontent.com/Flediko/Flediko/main/profile-3d-contrib.svg)
+![3D Profile](https://raw.githubusercontent.com/Flediko/Flediko/main/metrics-3d.svg)
 
 ---
 
