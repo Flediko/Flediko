@@ -13,13 +13,11 @@
 
 <br><br>
 
-<img src="./assest/ceh-badge.png" width="180"/>
-
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Flediko&style=for-the-badge&color=blueviolet"/>
 
-<img src="https://img.shields.io/github/followers/Flediko?style=for-the-badge"/>
+
 
 </div>
 
