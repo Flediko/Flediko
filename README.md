@@ -1,3 +1,4 @@
+<div align="center">
 # ⚡ Aakash Singh
 
 <div align="center">
