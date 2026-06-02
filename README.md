@@ -98,54 +98,15 @@ Credential ID: **ECC5190287643**
 
 # 🏆 Featured Projects
 
-### 🔨 BidMarket
+# 🏆 Featured Projects
 
-**Real-Time Auction Platform**
-
-* React.js
-* Node.js
-* PostgreSQL
-* Redis
-* Socket.io
-* Stripe Integration
-
-### 📍 AttendX
-
-**Smart Attendance Management System**
-
-* Flask Backend
-* MongoDB
-* KNN Proximity Algorithm
-* Haversine Distance Validation
-* Teacher Dashboard & Student Portal
-
-### 🔍 SAST Tool
-
-**Static Application Security Testing Tool**
-
-* Custom Security Parser
-* C/C++ Code Analysis
-* Vulnerability Detection
-* Secure Coding Analysis
-* Severity Classification
-
-### 🛡️ VulnScanner
-
-**Web Vulnerability Scanner**
-
-* SQL Injection Detection
-* XSS Detection
-* HTTP Header Analysis
-* Directory Listing Detection
-* Structured JSON Reporting
-
-### 🛒 RBAC E-Commerce Security System
-
-* Python + MySQL
-* Admin / Seller / Customer Roles
-* Secure Authentication
-* Input Validation
-* Privilege Separation
+| 🚀 Project | 📖 Description |
+|------------|---------------|
+| **BidMarket** | Real-time auction platform with Redis caching and Socket.io live bidding |
+| **AttendX** | GPS-based attendance system using KNN and Haversine distance |
+| **SAST Tool** | Static Application Security Testing tool for C/C++ code analysis |
+| **VulnScanner** | Web vulnerability scanner for SQLi, XSS, and security misconfigurations |
+| **RBAC E-Commerce** | Secure multi-role e-commerce system with strict access control |
 
 ---
 
