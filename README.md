@@ -54,7 +54,7 @@ class AakashSingh:
 
 <div align="center">
 
-<img src="./assets/ceh-badge.png" width="220"/>
+<img src="./assest/ceh-badge.png" width="220"/>
 
 ### Certified Ethical Hacker (CEH)
 
