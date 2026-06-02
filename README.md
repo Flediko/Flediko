@@ -1,21 +1,31 @@
-
-# # 👾 Aakash Singh
+````markdown
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=280&section=header&text=Aakash%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Cybersecurity+Enthusiast;FastAPI+%7C+React+%7C+PostgreSQL;Certified+Ethical+Hacker+(CEH);Building+Production-Grade+Systems" />
+### 🔐 Certified Ethical Hacker (CEH)
 
-<br>
+### ⚡ Backend Developer • Cybersecurity Enthusiast • Full-Stack Engineer
 
-<img src="https://komarev.com/ghpvc/?username=Flediko&style=for-the-badge&color=blueviolet" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=FastAPI+Developer;Cybersecurity+Enthusiast;React+%7C+PostgreSQL+%7C+Redis;Certified+Ethical+Hacker+(CEH);Building+Production-Grade+Systems" />
 
-<img src="https://img.shields.io/github/followers/Flediko?style=for-the-badge" />
+<br><br>
+
+<img src="./assest/ceh-badge.png" width="180"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Flediko&style=for-the-badge&color=blueviolet"/>
+
+<img src="https://img.shields.io/github/followers/Flediko?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 ```python
 class AakashSingh:
@@ -40,7 +50,7 @@ class AakashSingh:
     certification = "Certified Ethical Hacker (CEH)"
 
     current_goal = "Building scalable and secure software"
-```
+````
 
 * 🎓 B.Tech Computer Science Student
 * 🔐 Certified Ethical Hacker (CEH)
@@ -51,11 +61,10 @@ class AakashSingh:
 
 ---
 
-## 🏅 Certification
+# 🏅 Certification
 
 <div align="center">
 
-<img src="./assest/ceh-badge.png" width="220"/>
 
 ### Certified Ethical Hacker (CEH)
 
@@ -67,53 +76,35 @@ Credential ID: **ECC5190287643**
 
 ---
 
-## ⚔️ Tech Arsenal
+# ⚔️ Tech Arsenal
+
+<div align="center">
 
 ### Programming Languages
 
-<p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js" />
-</p>
 
 ### Backend Development
 
-<p>
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask" />
-</p>
 
 ### Frontend Development
 
-<p>
 <img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
 
 ### Databases
 
-<p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
-</p>
 
 ### Tools & Security
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,linux" />
-</p>
+
+</div>
 
 ---
 
-## 🏆 Featured Projects
-
-### ⚡ ChargeX
-
-**Smart EV Charging Station Management System**
-
-* FastAPI + React 19
-* PostgreSQL + Supabase
-* Multi-role Authentication
-* Real-time Station Management
-* IEEE 830 SRS Documentation
-
----
+# 🏆 Featured Projects
 
 ### 🔨 BidMarket
 
@@ -126,8 +117,6 @@ Credential ID: **ECC5190287643**
 * Socket.io
 * Stripe Integration
 
----
-
 ### 📍 AttendX
 
 **Smart Attendance Management System**
@@ -137,8 +126,6 @@ Credential ID: **ECC5190287643**
 * KNN Proximity Algorithm
 * Haversine Distance Validation
 * Teacher Dashboard & Student Portal
-
----
 
 ### 🔍 SAST Tool
 
@@ -150,8 +137,6 @@ Credential ID: **ECC5190287643**
 * Secure Coding Analysis
 * Severity Classification
 
----
-
 ### 🛡️ VulnScanner
 
 **Web Vulnerability Scanner**
@@ -161,8 +146,6 @@ Credential ID: **ECC5190287643**
 * HTTP Header Analysis
 * Directory Listing Detection
 * Structured JSON Reporting
-
----
 
 ### 🛒 RBAC E-Commerce Security System
 
@@ -174,7 +157,7 @@ Credential ID: **ECC5190287643**
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
 <div align="center">
 
@@ -186,7 +169,7 @@ Credential ID: **ECC5190287643**
 
 ---
 
-## 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -196,7 +179,7 @@ Credential ID: **ECC5190287643**
 
 ---
 
-## 📈 Activity Graph
+# 📈 Activity Graph
 
 <div align="center">
 
@@ -206,7 +189,7 @@ Credential ID: **ECC5190287643**
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -216,7 +199,7 @@ Credential ID: **ECC5190287643**
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 * ☁️ Microsoft Azure
 * 🏗️ System Design
@@ -226,7 +209,7 @@ Credential ID: **ECC5190287643**
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <div align="center">
 
@@ -234,7 +217,7 @@ Credential ID: **ECC5190287643**
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="https://linkedin.com/in/flediko">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -253,3 +236,8 @@ Credential ID: **ECC5190287643**
 *"Security is not a product, but a process."*
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=120&section=footer"/>
+</p>
+```
