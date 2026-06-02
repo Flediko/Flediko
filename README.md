@@ -1,18 +1,14 @@
-<div align="center">
-
 # ⚡ Aakash Singh
 
-### Backend Developer • Cybersecurity Enthusiast • B.Tech CSE
+<div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=FastAPI+Developer;Cybersecurity+Enthusiast;React+%2B+PostgreSQL+Builder;CEH+Certified;Always+Building+Something+Cool" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Backend+Developer;Cybersecurity+Enthusiast;FastAPI+%7C+React+%7C+PostgreSQL;Certified+Ethical+Hacker+(CEH);Building+Production-Grade+Systems" />
 
-<p>
-<a href="https://github.com/Flediko">
-<img src="https://img.shields.io/github/followers/Flediko?label=Followers&style=for-the-badge">
-</a>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Flediko&style=for-the-badge&color=blue">
-</p>
+<img src="https://komarev.com/ghpvc/?username=Flediko&style=for-the-badge&color=blueviolet" />
+
+<img src="https://img.shields.io/github/followers/Flediko?style=for-the-badge" />
 
 </div>
 
@@ -25,143 +21,234 @@ class AakashSingh:
 
     education = "B.Tech CSE @ Graphic Era University"
 
-    interests = [
+    focus = [
         "Backend Development",
         "Cybersecurity",
-        "Cloud Computing",
-        "System Design"
+        "System Design",
+        "Cloud Technologies"
     ]
 
-    currently_building = [
-        "ChargeX",
-        "BidMarket",
-        "Security Tools"
+    tech_stack = [
+        "FastAPI",
+        "React",
+        "PostgreSQL",
+        "Redis",
+        "Node.js"
     ]
 
     certification = "Certified Ethical Hacker (CEH)"
+
+    current_goal = "Building scalable and secure software"
 ```
+
+* 🎓 B.Tech Computer Science Student
+* 🔐 Certified Ethical Hacker (CEH)
+* ⚡ Backend-focused Developer
+* 🌐 Full-Stack Development Experience
+* 🛡️ Security-First Engineering Mindset
+* 🎮 Passionate about Game Development
+
+---
+
+## 🏅 Certification
+
+<div align="center">
+
+<img src="./assets/ceh-badge.png" width="220"/>
+
+### Certified Ethical Hacker (CEH)
+
+**EC-Council**
+
+Credential ID: **ECC5190287643**
+
+</div>
 
 ---
 
 ## ⚔️ Tech Arsenal
 
-### Languages
+### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js" />
+</p>
 
-### Backend
+### Backend Development
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,flask" />
+</p>
 
-### Frontend
+### Frontend Development
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
 
-### Security & Tools
+### Tools & Security
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux" />
+</p>
 
 ---
 
 ## 🏆 Featured Projects
 
 ### ⚡ ChargeX
-Production-grade EV Charging Station Management System
 
-- FastAPI
-- React 19
-- PostgreSQL
-- Supabase
-- Role-Based Access Control
+**Smart EV Charging Station Management System**
+
+* FastAPI + React 19
+* PostgreSQL + Supabase
+* Multi-role Authentication
+* Real-time Station Management
+* IEEE 830 SRS Documentation
 
 ---
 
 ### 🔨 BidMarket
-Real-Time Auction Platform
 
-- React
-- Node.js
-- Redis
-- Socket.io
-- Stripe Integration
+**Real-Time Auction Platform**
+
+* React.js
+* Node.js
+* PostgreSQL
+* Redis
+* Socket.io
+* Stripe Integration
+
+---
+
+### 📍 AttendX
+
+**Smart Attendance Management System**
+
+* Flask Backend
+* MongoDB
+* KNN Proximity Algorithm
+* Haversine Distance Validation
+* Teacher Dashboard & Student Portal
+
+---
+
+### 🔍 SAST Tool
+
+**Static Application Security Testing Tool**
+
+* Custom Security Parser
+* C/C++ Code Analysis
+* Vulnerability Detection
+* Secure Coding Analysis
+* Severity Classification
 
 ---
 
 ### 🛡️ VulnScanner
 
-Web Vulnerability Scanner
+**Web Vulnerability Scanner**
 
-- SQL Injection Detection
-- XSS Detection
-- Security Header Analysis
-- JSON Severity Reporting
+* SQL Injection Detection
+* XSS Detection
+* HTTP Header Analysis
+* Directory Listing Detection
+* Structured JSON Reporting
 
 ---
 
-## 📈 GitHub Analytics
+### 🛒 RBAC E-Commerce Security System
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flediko&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flediko&layout=compact&theme=tokyonight"/>
-</p>
+* Python + MySQL
+* Admin / Seller / Customer Roles
+* Secure Authentication
+* Input Validation
+* Privilege Separation
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flediko&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flediko&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
 ## 🔥 Contribution Streak
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Flediko&theme=tokyonight"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Flediko&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 📊 Activity Graph
+## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Flediko&theme=tokyo-night)](https://github.com/Flediko)
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Flediko&theme=tokyo-night"/>
+
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://raw.githubusercontent.com/Flediko/Flediko/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Flediko/Flediko/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+* ☁️ Microsoft Azure
+* 🏗️ System Design
+* 🔒 Advanced Web Security
+* ⚡ Distributed Systems
+* 🎮 Game Development
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Flediko">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:aakash2005singh@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-### 💡 "Build. Break. Learn. Repeat."
+## 💡 Build. Break. Learn. Repeat.
+
+*"Security is not a product, but a process."*
 
 </div>
