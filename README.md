@@ -108,7 +108,7 @@ linkedin    : linkedin.com/in/aakash-singh-a0b82b319
 ## 🐍 Contribution Snake
  
 <div align="center">
-![Snake](https://raw.githubusercontent.com/Flediko/Flediko/output/github-contribution-grid-snake-dark.svg)
+![Snake]([https://raw.githubusercontent.com/Flediko/Flediko/output/github-contribution-grid-snake-dark.sv](https://github.com/Flediko/Flediko/blob/main/.github/workflows/snake.yml))
  
 </div>
 ---
