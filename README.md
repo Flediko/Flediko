@@ -107,6 +107,7 @@ Credential ID: **ECC5190287643**
 | **SAST Tool** | Static Application Security Testing tool for C/C++ code analysis |
 | **VulnScanner** | Web vulnerability scanner for SQLi, XSS, and security misconfigurations |
 | **RBAC E-Commerce** | Secure multi-role e-commerce system with strict access control |
+| 🧠 CusLang | Custom interpreted programming language featuring lexical analysis, parsing, AST execution, lambdas, collections, imports, and a REPL |
 
 ---
 
