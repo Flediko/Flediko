@@ -11,13 +11,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=FastAPI+Developer;Cybersecurity+Enthusiast;React+%7C+PostgreSQL+%7C+Redis;Certified+Ethical+Hacker+(CEH);Building+Production-Grade+Systems" />
 
-<br><br>
-
-<br><br>
-
 <img src="https://komarev.com/ghpvc/?username=Flediko&style=for-the-badge&color=blueviolet"/>
-
-
 
 </div>
 
