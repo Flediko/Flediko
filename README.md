@@ -10,7 +10,7 @@
 ### ⚡ Backend Developer • Cybersecurity Enthusiast • Full-Stack Engineer
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=FastAPI+Developer;Cybersecurity+Enthusiast;React+%7C+PostgreSQL+%7C+Redis;Certified+Ethical+Hacker+(CEH);Building+Production-Grade+Systems" />
-
+<br>
 <img src="https://komarev.com/ghpvc/?username=Flediko&style=for-the-badge&color=blueviolet"/>
 
 </div>
@@ -70,7 +70,7 @@ Credential ID: **ECC5190287643**
 
 # ⚔️ Tech Arsenal
 
-<div align="center">
+<div>
 
 ### Programming Languages
 
