@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.svg" alt="Aakash Singh" width="100%"/>
+  <img src=".assest/header.svg" alt="Aakash Singh" width="100%"/>
 </p>
 
 <div align="center">
